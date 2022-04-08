@@ -1,8 +1,8 @@
 # Make Your Own Gamebook
 This app lets you create your own gamebook, without the hassle of assigning the random section numbers yourself!
 
-![Image RTF basic mode](https://github.com/LPBeaulieu/Typewriter-OCR-TintypeText/blob/main/TintypeText%20basic%20rtf%20mode%20screenshot.jpg)
-<h3 align="center">Tintype¶Text</h3>
+![Image RTF basic mode](https://github.com/LPBeaulieu/Make-Your-Own-Gamebook/blob/main/Make%20Your%20Own%20Gamebook.jpg)
+<h3 align="center">Make Your Own Gamebook</h3>
 <div align="center">
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/LPBeaulieu/TintypeText/blob/main/LICENSE)
