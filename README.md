@@ -36,7 +36,7 @@ This app lets you create your own gamebook, without the hassle of assigning the 
 
 ## 🏁 Getting Started and Usage<a name = "getting_started"></a>
 
-Here is a link to an instructional video how to setup and use <b>Make Your Own Gamebook</b>:.
+Here is a link to an instructional video how to setup and use <b>Make Your Own Gamebook</b>: https://www.youtube.com/watch?v=82eFqT5Cc6o.
 
 The paths included in the code are formatted for Unix (Linux) operating systems (OS), so the following instructions are for Linux OS environments.
 
