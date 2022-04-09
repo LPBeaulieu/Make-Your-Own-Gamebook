@@ -16,7 +16,7 @@ This app lets you create your own gamebook, without the hassle of assigning the 
 - <b>Make Your Own Gamebook</b> (or MYOG for short), allows you to create your very own interactive gamebook, where readers choose how to engage with characters and events they encounter as the story unfolds. 
 - All you need to do is keep tabs on your section names in the section title headers and references throughout the text, and the Python code takes care of all the nitty-gritty details of assigning the numbers and sorting your document for you! 
 - The code even checks for spelling mistakes in the section titles and lets you know if you have duplicates. 
-- Importantly, it verifies that the last section can be accessed from the first section without interruption (that is to say that it performs a contiguity test) and lets you know the furthest section that it is able to reach in your unsorted original document. This helps you figure out where there are issues as you are writing your work. 
+- Importantly, it verifies that the last section can be accessed from the first section without interruption (that is to say, it performs a contiguity test) and lets you know the furthest section that it is able to reach in your unsorted original document. This helps you figure out where there are issues as you are writing your work. 
 - Text documents or rich text format (RTF) documents may be used with the code, and you can even feed the code the RTF document from the TintypeText typewriter optical character recognition application (See the TintypeText github repository: https://github.com/LPBeaulieu/Typewriter-OCR-TintypeText)
 
 ## 📝 Table of Contents
@@ -58,7 +58,7 @@ pip install pyspellchecker
 
 <b>Step 4</b>- You're now ready to use <b>Make Your Own Gamebook</b>! 
 
-Be sure to check out the Youtube video (see link above) for instructions on how to use the Python code files. You can now easily create your very own gamebooks in a few seconds, without all the hassle of assigning random section numbers yourself! 🎉📖 
+Be sure to check out the Youtube video (see link above) for instructions on how to use the Python code files. You can now easily create your very own gamebook in a few seconds, without all the hassle of assigning random section numbers yourself! 🎉📖 
   
 ## ✍️ Authors <a name = "author"></a>
 - 👋 Hi, I’m Louis-Philippe!
