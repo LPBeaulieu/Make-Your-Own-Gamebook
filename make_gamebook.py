@@ -194,6 +194,10 @@ interactive_rtf = ((re.sub('[" "]+', " ", interactive_rtf)).replace("‘", "\\'9
 #in between sections for the "gamebook_resplit" list of sections used in the contiguity test to avoid confusion.
 #However, as we want the justified alignment (\qj) to be effective on the whole text
 #(apart from the section title headers), the "\pard" RTF commands need to be removed in the final text.
+#For the same reason, only the advanced RTF mode of TintypeText should be used, as the basic mode 
+#replaces "\par\par" with "\par\pard". Furthermore, he RTF command sequence "\par\par\pard" 
+#("=par=par=pard" on the typewriter) should be avoided, as the individual sections are split by 
+#this code based on this divider.
 with open(file_name[:-4] + " Gamebook.rtf", "w") as g:
     g.write(r"{\rtf1 \ansi \deff0 {\fonttbl {\f0 Ubuntu;}} \f0 \fs24 \qj \par " + interactive_rtf.replace("\par\par\pard", "\par\par") + "}")
 
