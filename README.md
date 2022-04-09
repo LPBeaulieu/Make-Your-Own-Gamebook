@@ -1,7 +1,7 @@
 # Make Your Own Gamebook
 This app lets you create your own gamebook, without the hassle of assigning the random section numbers yourself!
 
-![Image RTF basic mode](https://github.com/LPBeaulieu/Make-Your-Own-Gamebook/blob/main/Make%20Your%20Own%20Gamebook%20Screenshot.jpg)
+![Image RTF basic mode](https://github.com/LPBeaulieu/Make-Your-Own-Gamebook/blob/main/Make%20Your%20Own%20Gamebook%20Image.jpg)
 <h3 align="center">Make Your Own Gamebook</h3>
 <div align="center">
   
@@ -36,7 +36,7 @@ This app lets you create your own gamebook, without the hassle of assigning the 
 
 ## 🏁 Getting Started and Usage<a name = "getting_started"></a>
 
-Here is a link to an instructional video how to setup and use <b>Make Your Own Gamebook</b>: https://www.youtube.com/watch?v=-IXC6wVwy4c.
+Here is a link to an instructional video how to setup and use <b>Make Your Own Gamebook</b>:.
 
 The paths included in the code are formatted for Unix (Linux) operating systems (OS), so the following instructions are for Linux OS environments.
 
