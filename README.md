@@ -5,9 +5,9 @@ This app lets you create your own gamebook, without the hassle of assigning the 
 <h3 align="center">Make Your Own Gamebook</h3>
 <div align="center">
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/LPBeaulieu/TintypeText/blob/main/LICENSE)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/LPBeaulieu/TintypeText)](https://github.com/LPBeaulieu/TintypeText)
-  [![GitHub issues](https://img.shields.io/github/issues/LPBeaulieu/TintypeText)](https://github.com/LPBeaulieu/TintypeText)
+  [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPLv3.0-brightgreen.svg)](https://github.com/LPBeaulieu/Make-Your-Own-Gamebook/blob/main/LICENSE)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/LPBeaulieu/Make-Your-Own-Gamebook)](https://github.com/LPBeaulieu/Make-Your-Own-Gamebook)
+  [![GitHub issues](https://img.shields.io/github/issues/LPBeaulieu/Make-Your-Own-Gamebook)](https://github.com/LPBeaulieu/Make-Your-Own-Gamebook)
   
 </div>
 
